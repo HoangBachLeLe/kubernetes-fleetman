@@ -12,6 +12,7 @@ material from Udemy course "Kubernetes Hands-On - Deploy Microservices to the AW
 
 ### Helpful commands
 
+```
 minikube start --no-vtx-check
 minikube ip
 
@@ -19,3 +20,4 @@ source <(kubectl completion bash)
 echo "source <(kubectl completion bash)" >> ~/.bashr
 alias k=kubectl
 complete -o default -F \_\_start_kubectl k
+```
