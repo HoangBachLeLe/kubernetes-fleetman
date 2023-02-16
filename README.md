@@ -1,6 +1,8 @@
 # Kubernetes Fleetman
 
-material from Udemy course "Kubernetes Hands-On - Deploy Microservices to the AWS Cloud" by Richard Chesterwood
+**_NOTE:_** The materials are from Udemy course "Kubernetes Hands-On - Deploy Microservices to the AWS Cloud" by Richard Chesterwood
+
+---
 
 | Service                 | Port  | Notes                        |
 | ----------------------- | ----- | ---------------------------- |
